@@ -11,6 +11,7 @@ setuptools = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
